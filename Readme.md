@@ -7,6 +7,8 @@
 
 
 ```shell
+$ ollama serve
+
 $ cargo build
 $ cargo run 
 ```
