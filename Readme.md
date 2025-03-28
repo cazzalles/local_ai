@@ -3,7 +3,7 @@
 #### Rust with Local AI
 
 > [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
+> You must have Ollama and `deepseek-r1:1.5b` model installed.
 
 
 ```shell
